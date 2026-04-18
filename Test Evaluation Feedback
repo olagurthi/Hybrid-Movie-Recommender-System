@@ -1,0 +1,7 @@
+Test Evaluation Feedback
+
+The evaluation is solid because it uses both RMSE/MAE (prediction accuracy) and Precision@K / Recall@K (recommendation quality), giving a complete view of performance.
+
+However, since the ratings are simulated, the results may be optimistic and don’t fully reflect real-world behavior.
+
+Overall, the evaluation is good for demonstrating the model, but it would be stronger with real user data and direct comparison between CBF, CF, and Hybrid.
