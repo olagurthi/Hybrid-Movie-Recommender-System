@@ -75,11 +75,6 @@ cd hybrid-movie-recommender
 
 1. **Place `movies.csv` in the same folder as the notebook**
 1. **Launch Jupyter**
-
-```bash
-jupyter notebook hybrid_recommender.ipynb
-```
-
 1. **Run all cells** — the notebook is self-contained and installs missing packages automatically.
 
 -----
