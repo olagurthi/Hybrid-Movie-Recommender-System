@@ -1,7 +1,5 @@
 # 🎬 Hybrid Movie Recommender System
 
-### Machine Learning – L18: Hands-On | UNYT
-
 A complete implementation of a **Hybrid Recommender System** combining Content-Based Filtering and Collaborative Filtering, built on the MovieLens dataset.
 
 -----
@@ -155,15 +153,6 @@ recommend_hybrid(user_id=0, n=10, alpha=0.5)
 |0.5  |Balanced |Default / general use         |
 |0.75 |CBF-heavy|Users with limited history    |
 |1.0  |Pure CBF |Cold-start / new users        |
-
------
-
-## 📚 References
-
-- Lecture slides: *Recommender Systems*, UNYT ML Course – Prof. Eliot Bytyçi
-- [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
-- Koren, Y. et al. (2009). Matrix factorization techniques for recommender systems. *IEEE Computer*.
-- Ricci, F. et al. (2011). *Recommender Systems Handbook*. Springer.
 
 -----
 
